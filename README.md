@@ -1,6 +1,6 @@
 ### Hi there, I'm Christopher Abetianbe 👋
 
-Like R2-D2 naviagting the galaxy, i am a resourceful and detail-oriented cloud engineer adept at steering through technological landscapes. Proficient in cloud architectures, my mission is to optimize systems, troubleshoot challenges, and ensure seamless functionality. Just as R2-D2 is an essential part of the Rebel  Alliance, I am committed to being an integral force in driving innovation and reliability in a dynamic team throughout the galaxy. This is the way!
+Like R2-D2 naviagting the galaxy, I am a resourceful and detail-oriented cloud engineer adept at steering through technological landscapes. Proficient in cloud architectures, my mission is to optimize systems, troubleshoot challenges, and ensure seamless functionality. Just as R2-D2 is an essential part of the Rebel  Alliance, I am committed to being an integral force in driving innovation and reliability in a dynamic team throughout the galaxy. This is the way!
 
 <!--
 **afumchris/afumchris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
