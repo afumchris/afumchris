@@ -18,6 +18,16 @@ A movie character that best describes my skills as a cloud/devops engineer is R2
 
 ### My Github Stats 📊
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afumchris&label=Profile%20views&color=0e75b6&style=flat" alt="afumchris" /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afumchris&theme=dark&show_icons=true&locale=en&layout=compact" alt="afumchris" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afumchris&theme=dark&show_icons=true&locale=en" alt="afumchris" /></p>
+
+
+
+
+
 <!--
 **afumchris/afumchris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
