@@ -2,6 +2,8 @@
 
 Cloud/DevOps Engineer during the Day, Batman at Night.
 
+A movie character that best describes my skills as a cloud/devops engineer is R2-D2, Much like R2-D2's collaborative spirit within the Rebel Alliance, I am dedicated and passionate about working with others to achieve technological excellence. Eager to learn and adapt, my focus is on optimizing cloud architectures, troubleshooting challenges, and fostering a collaborative environment
+
 ---
 
 
@@ -11,9 +13,10 @@ Cloud/DevOps Engineer during the Day, Batman at Night.
 
 
 
-
-
 ---
+
+
+### My Github Stats 📊
 
 <!--
 **afumchris/afumchris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
