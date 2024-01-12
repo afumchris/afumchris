@@ -24,7 +24,7 @@ A movie character that best describes my skills as a cloud/devops engineer is R2
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afumchris&theme=dark&show_icons=true&locale=en" alt="afumchris" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afumchris&" alt="afumchris" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afumchris&theme=dark&" alt="afumchris" /></p>
 
 
 
