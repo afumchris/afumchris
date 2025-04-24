@@ -1,4 +1,4 @@
-#### Hey there 👋, it's great to meet you! My name is Christopher Abetianbe, but you can just call me Chris. I work as a Cloud/DevOps Engineer during the day, but by night, I'm Batman (just kidding 😂). 
+#### Hey there 👋, it's great to meet you! My name is Christopher Abetianbe, but you can just call me Chris. I work as a Cloud/DevOps Engineer during the day, but by night, I'm Batman.
 
 #### I like to think that my skills as a Cloud/DevOps Engineer are similar to those of the lovable R2-D2 from Star Wars. Like R2-D2's collaborative spirit within the Rebel Alliance, I strive to work with others to achieve technological excellence. I'm always eager to learn and adapt, and I enjoy optimizing cloud architectures, solving tough challenges, and creating a positive and collaborative work environment.
 
